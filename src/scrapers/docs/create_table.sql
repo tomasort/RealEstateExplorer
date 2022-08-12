@@ -1,0 +1,32 @@
+CREATE TABLE properties(
+    id varchar(15) PRIMARY KEY,
+    price decimal(10, 3),
+    city varchar(60),
+    zip varchar(12),
+    status varchar(12),
+    home_Type varchar(20),
+    bathrooms decimal(4, 1),
+    bedrooms decimal(4, 1),
+    street_view varchar(400),
+    img_src varchar(400),
+    price_Per_Sqft varchar(12),
+    sold_price varchar(20),
+    latitude numeric(10, 7),
+    longitude numeric(10, 7),
+    area integer,
+    lot_size integer,
+    address text,
+    detail_url text,
+    zestimate integer,
+    price_change integer,
+    price_reduction varchar(30),
+    rent_zestimate integer,
+    unit varchar(20),
+    date_Price_Changed date,
+    year_Built integer,
+    date_Sold date,
+    home_status varchar(20),
+    tax_Assessed_Value decimal(10, 3)
+);
+
+

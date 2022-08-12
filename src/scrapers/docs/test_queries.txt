@@ -1,0 +1,2691 @@
+
+zip code: 33160
+
+
+
+	Sold Homes: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.08319479589841,
+        "north": 25.980730841994298,
+        "south": 25.900151609879657,
+        "west": -80.18893820410153
+    },
+    "mapZoom": 13,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Changing Map Sold Homes: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.12214047079465,
+        "north": 25.962327514588335,
+        "south": 25.91856465382636,
+        "west": -80.14999252920529
+    },
+    "mapZoom": 15,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Changing Map Again Sold Homes: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.11587483053586,
+        "north": 25.96093846737173,
+        "south": 25.917175090425093,
+        "west": -80.1437268889465
+    },
+    "mapZoom": 15,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Sold Homes Page 2: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.08319479589841,
+        "north": 25.980730841994298,
+        "south": 25.900151609879657,
+        "west": -80.18893820410153
+    },
+    "mapZoom": 13,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ]
+}
+
+====================================================================================================
+
+
+	Sold Homes Page 3: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Sold Homes Page 4: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Sold Homes Price 100K To 800K: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2941,
+            "min": 368
+        },
+        "price": {
+            "max": 800000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Sold Homes Price 100K To 800K Page 2: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2941,
+            "min": 368
+        },
+        "price": {
+            "max": 800000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Sold Homes Price 100K To 800K Page 3: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2941,
+            "min": 368
+        },
+        "price": {
+            "max": 800000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Sold Homes Price 100K To 800K Page 4: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2941,
+            "min": 368
+        },
+        "price": {
+            "max": 800000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Sold Homes Sorted Low To High: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "pricea"
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.08319479589841,
+        "north": 25.980730841994298,
+        "south": 25.900151609879657,
+        "west": -80.18893820410153
+    },
+    "mapZoom": 13,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Sold Homes Sorted High To Low: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "priced"
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.08319479589841,
+        "north": 25.980730841994298,
+        "south": 25.900151609879657,
+        "west": -80.18893820410153
+    },
+    "mapZoom": 13,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/?searchQueryState
+
+{
+    "filterState": {},
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.08319479589841,
+        "north": 25.980730841994298,
+        "south": 25.900151609879657,
+        "west": -80.18893820410153
+    },
+    "mapZoom": 13,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale Page 2: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/2_p/?searchQueryState
+
+{
+    "filterState": {},
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale Page 3: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/3_p/?searchQueryState
+
+{
+    "filterState": {},
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.08319479589841,
+        "north": 25.980730841994298,
+        "south": 25.900151609879657,
+        "west": -80.18893820410153
+    },
+    "mapZoom": 13,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Page 2: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Page 3: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Page 4: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 0 To 500K: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 1838
+        },
+        "price": {
+            "max": 500000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 0 To 500K Page 2: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 1838
+        },
+        "price": {
+            "max": 500000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 0 To 500K Page 3: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 1838
+        },
+        "price": {
+            "max": 500000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 0 To 500K Page 4: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 1838
+        },
+        "price": {
+            "max": 500000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 100K To 600K: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2206,
+            "min": 368
+        },
+        "price": {
+            "max": 600000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 100K To 600K Page 2: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2206,
+            "min": 368
+        },
+        "price": {
+            "max": 600000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 100K To 600K Page 3: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2206,
+            "min": 368
+        },
+        "price": {
+            "max": 600000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 100K To 600K Page 4: 
+
+		https://www.zillow.com/north-miami-beach-fl-33160/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2206,
+            "min": 368
+        },
+        "price": {
+            "max": 600000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/north-miami-beach-fl-33160/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.10821444158933,
+        "north": 25.984202844986626,
+        "south": 25.89667712833516,
+        "west": -80.16391855841061
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72463,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33160"
+}
+
+====================================================================================================
+
+zip code: 33162
+
+
+
+	Sold Homes: 
+
+		https://www.zillow.com/miami-fl-33162/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "days"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Changing Map Sold Homes: 
+
+		https://www.zillow.com/miami-fl-33162/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.16416047079463,
+        "north": 25.95074121086853,
+        "south": 25.90697404530121,
+        "west": -80.19201252920527
+    },
+    "mapZoom": 15,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Changing Map Again Sold Homes: 
+
+		https://www.zillow.com/miami-fl-33162/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.15184376699824,
+        "north": 25.951590148550316,
+        "south": 25.907823298338712,
+        "west": -80.17969582540888
+    },
+    "mapZoom": 15,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Page 2: 
+
+		https://www.zillow.com/miami-fl-33162/sold/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "days"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Page 3: 
+
+		https://www.zillow.com/miami-fl-33162/sold/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "days"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Page 4: 
+
+		https://www.zillow.com/miami-fl-33162/sold/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "days"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Price 100K To 800K: 
+
+		https://www.zillow.com/miami-fl-33162/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2941,
+            "min": 368
+        },
+        "price": {
+            "max": 800000,
+            "min": 100000
+        },
+        "sortSelection": {
+            "value": "days"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Price 100K To 800K Page 2: 
+
+		https://www.zillow.com/miami-fl-33162/sold/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2941,
+            "min": 368
+        },
+        "price": {
+            "max": 800000,
+            "min": 100000
+        },
+        "sortSelection": {
+            "value": "days"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Price 100K To 800K Page 3: 
+
+		https://www.zillow.com/miami-fl-33162/sold/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2941,
+            "min": 368
+        },
+        "price": {
+            "max": 800000,
+            "min": 100000
+        },
+        "sortSelection": {
+            "value": "days"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Price 100K To 800K Page 4: 
+
+		https://www.zillow.com/miami-fl-33162/sold/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2941,
+            "min": 368
+        },
+        "price": {
+            "max": 800000,
+            "min": 100000
+        },
+        "sortSelection": {
+            "value": "days"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Sorted Low To High: 
+
+		https://www.zillow.com/miami-fl-33162/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "pricea"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Sold Homes Sorted High To Low: 
+
+		https://www.zillow.com/miami-fl-33162/sold/?searchQueryState
+
+{
+    "filterState": {
+        "isAuction": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": false
+        },
+        "isForSaleByAgent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": false
+        },
+        "isForSaleForeclosure": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isNewConstruction": {
+            "value": false
+        },
+        "isPreMarketForeclosure": {
+            "value": false
+        },
+        "isPreMarketPreForeclosure": {
+            "value": false
+        },
+        "isRecentlySold": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "priced"
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/sold/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale: 
+
+		https://www.zillow.com/miami-fl-33162/?searchQueryState
+
+{
+    "filterState": {},
+    "head": "https://www.zillow.com/miami-fl-33162/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale Page 2: 
+
+		https://www.zillow.com/miami-fl-33162/2_p/?searchQueryState
+
+{
+    "filterState": {},
+    "head": "https://www.zillow.com/miami-fl-33162/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale Page 3: 
+
+		https://www.zillow.com/miami-fl-33162/3_p/?searchQueryState
+
+{
+    "filterState": {},
+    "head": "https://www.zillow.com/miami-fl-33162/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold: 
+
+		https://www.zillow.com/miami-fl-33162/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Page 2: 
+
+		https://www.zillow.com/miami-fl-33162/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Page 3: 
+
+		https://www.zillow.com/miami-fl-33162/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Page 4: 
+
+		https://www.zillow.com/miami-fl-33162/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 0 To 500K: 
+
+		https://www.zillow.com/miami-fl-33162/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 1838
+        },
+        "price": {
+            "max": 500000
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 0 To 500K Page 2: 
+
+		https://www.zillow.com/miami-fl-33162/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 1838
+        },
+        "price": {
+            "max": 500000
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 0 To 500K Page 3: 
+
+		https://www.zillow.com/miami-fl-33162/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 1838
+        },
+        "price": {
+            "max": 500000
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 0 To 500K Page 4: 
+
+		https://www.zillow.com/miami-fl-33162/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 1838
+        },
+        "price": {
+            "max": 500000
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 100K To 600K: 
+
+		https://www.zillow.com/miami-fl-33162/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2206,
+            "min": 368
+        },
+        "price": {
+            "max": 600000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {},
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 100K To 600K Page 2: 
+
+		https://www.zillow.com/miami-fl-33162/2_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2206,
+            "min": 368
+        },
+        "price": {
+            "max": 600000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/2_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 2
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 100K To 600K Page 3: 
+
+		https://www.zillow.com/miami-fl-33162/3_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2206,
+            "min": 368
+        },
+        "price": {
+            "max": 600000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/3_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 3
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================
+
+
+	Homes For Sale And Sold Price 100K To 600K Page 4: 
+
+		https://www.zillow.com/miami-fl-33162/4_p/?searchQueryState
+
+{
+    "filterState": {
+        "isRecentlySold": {
+            "value": true
+        },
+        "monthlyPayment": {
+            "max": 2206,
+            "min": 368
+        },
+        "price": {
+            "max": 600000,
+            "min": 100000
+        }
+    },
+    "head": "https://www.zillow.com/miami-fl-33162/4_p/?searchQueryState",
+    "isListVisible": true,
+    "isMapVisible": true,
+    "mapBounds": {
+        "east": -80.1502344415893,
+        "north": 25.972618695603856,
+        "south": 25.885084369344654,
+        "west": -80.2059385584106
+    },
+    "mapZoom": 14,
+    "pagination": {
+        "currentPage": 4
+    },
+    "regionSelection": [
+        {
+            "regionId": 72465,
+            "regionType": 7
+        }
+    ],
+    "usersSearchTerm": "33162"
+}
+
+====================================================================================================

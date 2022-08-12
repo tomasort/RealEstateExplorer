@@ -1,0 +1,61 @@
+<!doctype html>
+
+<head>
+  <title>Property Manager</title>
+  <meta name="viewport" conten="initial-scale=1.0">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+
+<body>
+<div class="container">
+  <h1>Property Manager</h1>
+  <div id="searchinfo">
+    <p>Showing details for property: {{input_address}}</p>
+  </div>
+  <div id="details">
+    <p>Details</p>
+    <ul></ul>
+  </div>
+  <div id="target_details">
+    <p>Target Details</p>
+    <ul></ul>
+  </div>
+  <div id="map"></div>
+  <table id="results">
+    <tr>
+      <th>Address</th>
+      <th>Price</th>
+      <th>Tax Assessed Value</th>
+      <th>Square Feet</th>
+      <th>Lot Size</th>
+      <th>Home Type</th>
+      <th>Status</th>
+      <th>Date Sold</th>
+      <th>Bathrooms</th>
+      <th>Bedrooms</th>
+      <th>Distance From Origin (m)</th>
+      <th>Zillow link</th>
+    </tr>
+  </table>
+  <a id='download-data' href="{{ url_for('static', filename=file_name) }}">
+    Download
+  </a>
+
+</div>
+<script>
+    var stats = {{ stats| safe}};
+    var targetInfo = {{ target_info| safe }};
+    var properties = {{ results| safe }};
+    let mainProperty = { lat: {{ lat }}, lng: {{ lng }} };
+    var radius = {{ radius }}
+    var red_icon = "{{ url_for('static', filename='icons/red_circle.svg') }}"
+    var green_icon = "{{ url_for('static', filename='icons/green_circle.svg') }}"
+
+
+</script>
+<script src="{{ url_for('static', filename='scripts/script.js') }}"></script>
+<script src={{ map_url }} async defer></script>
+
+</body>

@@ -1,0 +1,54 @@
+.container {
+    display: grid;
+    grid-template-columns: 65px 420px 410px 370px 400px;
+    grid-template-rows: 30px 60px 70px 450px auto;
+    grid-row-gap: 1em; 
+    grid-column-gap: 1em; 
+    grid-template-areas: 
+                        " . . . . . "
+                        " . title . . . "
+                        " . searchinfo . . . "
+                        " . map map details target_details "
+                        " . results results results results"
+}
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+    height: 100%;
+    grid-area: map;
+}
+
+#results {
+    grid-area: results;
+}
+
+h1{
+    grid-area: title; 
+}
+
+#details {
+    grid-area: details;
+}
+
+#target_details {
+    grid-area: target_details;
+}
+
+#download-data {
+    grid-area: details;
+}
+
+#searchinfo {
+    grid-area: searchinfo;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}

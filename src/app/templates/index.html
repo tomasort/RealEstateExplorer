@@ -1,0 +1,24 @@
+<!doctype html>
+<title>Property Manager</title>
+<head>
+
+</head>
+<body>
+<div>
+    <h1>Property Manager</h1>
+    <p style="color: red; display: {{none if not error_message else block}}" id="error-message">{{ error_message }}</p>
+    <p>Please enter an address and a range:</p>
+    <form action="" method="post">
+        <span>Address: </span>
+        <input name="address" size="100"><br><br>
+        <span>Range: </span>
+        <input name="range" size="10">&nbsp;km<br><br>
+        <h2>Optional</h2>
+        <span>Target Price: </span>
+        $<input name="target_price" size="20"><br><br>
+        <span>Target area: </span>
+        <input name="target_area" size="20">&nbsp;square feet<br><br>
+        <input type="submit">
+    </form>
+</div>
+</body>
